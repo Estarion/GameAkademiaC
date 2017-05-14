@@ -37,14 +37,6 @@ Przewidywane są ulepszenia nie tylko jednostek ale też niektórych czynności 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-Od strony technicznej:
-Projekt jest nastawiony na obiektowość.
-Drużyny jak i Koszary będą np. kolejką do której będziemy dodawać lub usuwać jednostki.
-Jednostki będą Tworzone na wzór klasy bazowej np. jednostka i ulegać będą modyfikacji  (ulepszenia) za pomocą dzieciczenia. 
-
-
----------------------------------------------------------------------------------------------------------------------------------
-
 Jak w każdej grze, zmieniają się w niej założenia i pojawiają dodatki na celu ułatwienia odbioru u użytkownika i wyrównania poziomu w każdym etapie gry (odpowiednio do poziomu).
   
 
